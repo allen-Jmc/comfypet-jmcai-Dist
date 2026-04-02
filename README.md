@@ -5,13 +5,13 @@
 
 ---
 
-## 🚀 快速下载 (v1.2.6)
+## 🚀 快速下载 (v1.2.7)
 
 | 操作系统 | 下载链接 | 说明 |
 | :--- | :--- | :--- |
-| **Windows** | [📥 点击下载安装包 (.exe)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.6/JMCAI-1.2.6-setup.exe) | 推荐安装版，支持自动更新 |
-| **Windows** | [📥 下载便携版 (.exe)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.6/JMCAI-1.2.6-portable.exe) | 绿色免安装，解压即用 |
-| **macOS** | [📥 点击下载安装包 (.dmg)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.6/JMCAI-1.2.6.dmg) | Intel/Apple Silicon 通用 |
+| **Windows** | [📥 点击下载安装包 (.exe)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.7/JMCAI-1.2.7-setup.exe) | 推荐安装版，支持自动更新 |
+| **Windows** | [📥 下载便携版 (.exe)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.7/JMCAI-1.2.7-portable.exe) | 绿色免安装，解压即用 |
+| **macOS** | [📥 点击下载安装包 (.dmg)](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.2.7/JMCAI-1.2.7.dmg) | Intel/Apple Silicon 通用 |
 
 ---
 
@@ -44,12 +44,12 @@
 ## 📖 安装向导
 
 ### Windows 用户
-1. 下载 `JMCAI-1.2.6-setup.exe`。
+1. 下载 `JMCAI-1.2.7-setup.exe`。
 2. 运行并完成安装，桌面将出现 `JMCAI` 图标。
 3. 首次启动后，在“设置”中配置您的 Python 路径和 ComfyUI 工作目录。
 
 ### macOS 用户
-1. 下载 `JMCAI-1.2.6.dmg`。
+1. 下载 `JMCAI-1.2.7.dmg`。
 2. 将 `JMCAI` 拖入 `Applications` 文件夹。
 3. **注意**：若提示“无法验证开发者”，请在应用图标上**点击右键 -> 选择“打开”**，并在弹出框中再次确认。
 

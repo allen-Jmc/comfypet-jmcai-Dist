@@ -2,7 +2,7 @@
 
 JMCAI Comfypet 是一个把 **桌宠陪伴感** 和 **ComfyUI 工作流控制中心** 融合在一起的桌面应用。它不只是启动器，还会通过表情、颜色和状态反馈，把你的硬件压力、运行情况和工作流操作变成有存在感的桌面交互。
 
-**当前版本：[`v1.3.0`](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/tag/v1.3.0)**
+**当前版本：[`v1.3.1`](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/tag/v1.3.1)**
 
 它的核心体验不是“再做一个控制面板”，而是让一个会观察状态、会表达情绪、会陪你工作的桌面伙伴，去承载 ComfyUI 的管理、运行和反馈。
 
@@ -16,11 +16,11 @@ JMCAI Comfypet 是一个把 **桌宠陪伴感** 和 **ComfyUI 工作流控制中
 
 | 平台 | 推荐包 | 适合谁 | 下载 |
 | --- | --- | --- | --- |
-| Windows | 安装版 | 大多数用户，支持自动更新与系统集成 | [下载安装包](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.0/JMCAI-1.3.0-setup.exe) |
-| Windows | 便携版 | 不想安装、希望放在移动盘或独立目录运行的用户 | [下载便携版](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.0/JMCAI-1.3.0-portable.exe) |
-| macOS | DMG 安装包 | 希望直接拖入 Applications 的用户 | [下载 DMG](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.0/JMCAI-1.3.0.dmg) |
+| Windows | 安装版 | 大多数用户，支持自动更新与系统集成 | [下载安装包](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.1/JMCAI-1.3.1-setup.exe) |
+| Windows | 便携版 | 不想安装、希望放在移动盘或独立目录运行的用户 | [下载便携版](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.1/JMCAI-1.3.1-portable.exe) |
+| macOS | DMG 安装包 | 希望直接拖入 Applications 的用户 | [下载 DMG](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.1/JMCAI-1.3.1.dmg) |
 
-macOS 也提供备用压缩包：[下载 ZIP](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.0/JMCAI-1.3.0-universal-mac.zip)
+macOS 也提供备用压缩包：[下载 ZIP](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/download/v1.3.1/JMCAI-1.3.1-universal-mac.zip)
 
 ## 你可以用它做什么
 
@@ -66,7 +66,7 @@ Workflow Center 用来承接真正的工作流使用场景。你可以导入 wor
 
 - 安装版会通过应用内更新能力跟随 Dist 发布页的新版本。
 - 便携版和 ZIP 版本建议在本页下载最新版本后手动替换旧文件。
-- 每个正式版本都可以在 [Release 页面](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/tag/v1.3.0) 查看完整产物列表与发布时间。
+- 每个正式版本都可以在 [Release 页面](https://github.com/allen-Jmc/comfypet-jmcai-Dist/releases/tag/v1.3.1) 查看完整产物列表与发布时间。
 
 ## 相关链接
 
